@@ -1,2 +1,2 @@
-# Performance-Analysis-of-Chronic-Kidney-Disease-through-Machine-Learning-ApproachesPerformance-Analys
+# Performance-Analysis-of-Chronic-Kidney-Disease-through-Machine-Learning-Approaches
 Use this citation for reference "M. U. Emon, A. M. Imran, R. Islam, M. S. Keya, R. Zannat and Ohidujjaman, "Performance Analysis of Chronic Kidney Disease through Machine Learning Approaches," 2021 6th International Conference on Inventive Computation Technologies (ICICT), Coimbatore, India, 2021, pp. 713-719, doi: 10.1109/ICICT50816.2021.9358491."
